@@ -1,0 +1,1 @@
+// abstract class olduðu be pure virtual function içerdiði için kodlanmaya gerek yok
